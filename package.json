@@ -1,0 +1,13 @@
+{
+  "name": "poly-signer-service",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^5.2.1",
+    "ethers": "^5.7.2",
+    "express": "^4.19.2"
+  }
+}
